@@ -1,5 +1,3 @@
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Kamran Gasimovv</h1>
 <h3 align="center">A passionate Web developer from Azerbaijan</h3>
 
