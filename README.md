@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamran gasimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran gasimov" height="30" width="40" /></a>
-<a href="https://fb.com/kamran qasımov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran qasımov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamran-gasimov-067a7426b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran gasimov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015160272936&locale=az_AZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran qasımov" height="30" width="40" /></a>
 <a href="https://instagram.com/gasimov__097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gasimov__097" height="30" width="40" /></a>
 </p>
 
