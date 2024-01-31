@@ -1,4 +1,4 @@
-https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg
+![snake animation](https://github.com/<KamranGasimov>/<KamranGasimov>/blob/output/github-contribution-grid-snake2.svg)
 <h1 align="center">Hi 👋, I'm Kamran Gasimovv</h1>
 <h3 align="center">A passionate Web developer from Azerbaijan</h3>
 
